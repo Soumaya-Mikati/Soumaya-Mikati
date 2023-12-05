@@ -1,7 +1,7 @@
 ##
 <h1 align="center">Hello I AM SOUMAYA<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :smiley_cat: I am a student at SMK Telkom Malang
+### :smiley_cat: I am a senior computer science  
 
 ### so, curently this is my first try making my readme, hope you like it 😄
 ### and, you can call me asthi or seta
